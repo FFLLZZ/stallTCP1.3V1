@@ -1,4 +1,4 @@
-import { connect } from 'cloudflare:sockets';
+import { connect } from 'cloudflare:sockets'; 
 
 // =============================================================================
 // 🟣 1. 用户配置区域 (优先级: 环境变量 > D1 > KV > 硬编码)
